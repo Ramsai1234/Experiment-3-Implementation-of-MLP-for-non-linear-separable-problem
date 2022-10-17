@@ -120,4 +120,5 @@ predict(w1,w2,test)
  
  ![Screenshot (172)](https://user-images.githubusercontent.com/94269989/196170715-126a4b6a-3eb1-4b62-8ef3-00bc9024324a.png)
 
- ## RESULT :Thus to implement a perceptron for classification using Python is sucessfully done
+ ## RESULT :
+ Thus to implement a perceptron for classification using Python is sucessfully done
